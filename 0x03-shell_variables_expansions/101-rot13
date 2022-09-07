@@ -1,0 +1,2 @@
+#!/bin/bash
+after #!/bin/bash of course,  echo 'tr 'A-Za-z' 'N-ZA-Mn-za-m''>> nameofthefile
